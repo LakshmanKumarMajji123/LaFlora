@@ -1,0 +1,14 @@
+1. npm init -y
+
+bcryptjs: For password hashing (if you extend to user authentication).
+cors: For enabling CORS.
+dotenv: For environment variable management.
+express: The web framework.
+express-validator: For request validation.
+jsonwebtoken: For JWT authentication.
+mysql2: For MySQL database connectivity.(not required)
+
+2. npm install bcryptjs cors dotenv express express-validator jsonwebtoken
+3. nodemon :- For auto-restarting the server during development.
+4. npm install request (for sms otp)
+5. npm install @react-native-async-storage/async-storage  (for aysnc storage for storing the token )

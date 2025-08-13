@@ -1,0 +1,20 @@
+config/db.js: Configures the MySQL database connection.
+controllers/noteController.js: Handles business logic for CRUD operations.
+models/noteModel.js: Defines the Note schema and database operations.
+routes/noteRoutes.js: Defines Express routes for the Notes API.
+utils/auth.js: Authentication middleware using JWT.
+validators/noteValidator.js: Validates incoming request data using express-validator.
+.env: Stores environment variables (e.g., database credentials, JWT secret).
+index.js: Entry point for the Express server.
+package.json: Project dependencies and scripts.
+README.md: Documentation for setup and usage.
+
+
+
+
+
+
+1. name, email, age 
+2. login
+
+3. 
